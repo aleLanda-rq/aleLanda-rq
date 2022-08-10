@@ -2,7 +2,7 @@
 
 
  I am currently a Sophmore at The University Of The People, getting my bachelors in Computer Science. 
- I'm currently a Web Developer at Super Purposes, but open to Software Engineering internships, or any Front End Developer roles.
+ I'm currently a Front-End Developer at Super Purposes, but open to Software Engineering internships, or any Front End Developer roles.
 
 Here are some ideas to get you started:
 
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about any of my projects, I am always happy to talk about them and receive feedback.
 - 📫 How to reach me: Message me on linkedin https://www.linkedin.com/in/alejandra-landa-moya-aa2476109/
 - 😄 Pronouns:She/Her/Hers
-- ⚡ Fun fact: I have a background in Sales, realized I did not like people as much as I like coding. 
+
 
 
 <!--
