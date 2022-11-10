@@ -3,7 +3,7 @@
 
 
  I am currently a Sophmore at The University Of The People, getting my bachelors in Computer Science. 
- I'm currently a Front-End Developer at Super Purposes, but open to Software Engineering internships, or any Front End Developer roles.
+ I'm currently open to Software Engineering internships, or any Front End Developer roles.
 
 Here are some ideas to get you started:
 
