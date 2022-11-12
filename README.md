@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java and Jquery.
 - 💬 Ask me about any of my projects, I am always happy to talk about them and receive feedback.
 - 📫 How to reach me: Message me on linkedin https://www.linkedin.com/in/alejandra-landa-moya-aa2476109/
+- I also have a blog! https://medium.com/@aleriquene
 - 😄 Pronouns:She/Her/Hers
 
 
