@@ -1,4 +1,5 @@
 ![image](https://user-images.githubusercontent.com/98127121/202240136-ade9f4fd-772b-48b1-a5e8-44aa3ed8f583.png)
+![Snake animation](https://github.com/aleLanda-rq/aleLanda-rq/blob/output/github-contribution-grid-snake.svg)
 
 
 
