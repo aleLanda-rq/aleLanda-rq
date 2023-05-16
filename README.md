@@ -18,7 +18,8 @@
 </div>
 
 ![Snake animation](https://github.com/aleLanda-rq/aleLanda-rq/blob/output/github-contribution-grid-snake.svg)
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aleLanda-rq&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aleLanda-rq&langs_count=5&theme=tokyonight)]()
 
 
  I am currently a Sophmore at The University Of The People, getting my bachelors in Computer Science. 
