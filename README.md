@@ -1,8 +1,3 @@
-![image](https://user-images.githubusercontent.com/98127121/228988522-6edbdba6-cd89-46f4-b0ea-bc2c31eab090.png)
-<div align="center">  Visitor Count </div>
-
-![Visitor Count](https://profile-counter.glitch.me/{aleLanda-rq}/count.svg)
-
 
 <div align="center"> Technologies:</div>
 <div align="center">
